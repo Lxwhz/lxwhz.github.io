@@ -40,4 +40,16 @@ button {
     text-align: center;
 }
 
+#deff,ol,h3 {
+    margin-left: 45px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 600px;
+}
+
+
 
